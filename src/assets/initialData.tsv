@@ -1,0 +1,151 @@
+"iduser"	"guidUser"	"fullName"	"userName"	"domain"	"idArea"	"idLocation"	"enabled"	"idBossUser"	"contactEmail"	"idWorkingTimeSchema"	"idDelegate"	"idTimeZone"	"language"	"idCompany"
+1	"EA81A99E-0995-4600-ABC7-64066C96624A"	"admon"	"admon"	"domain"	1	4	1	1	"dl-productivity@bizagi.com"	1	"NULL"	"NULL"	51	51
+7307	"23A65720-F509-44A3-A23F-882FA9B1D480"	"Oscar Fernando Paez Pinilla"	"OscarP"	"vis_bog_hq"	"NULL"	4	1	7313	"dl-productivity@bizagi.com"	1	"NULL"	1	51	251
+7450	"97A7FFBF-5FD8-422C-A36B-4FDC2BE99F1F"	"Catalina Arredondo"	"CatalinaAA"	"Vis_Bog_Hq"	4	3	0	7313	"dl-productivity@bizagi.com"	1	"NULL"	14	51	51
+7451	"59AED4E7-48D5-4C22-BABB-FE4BF69B0465"	"TestManu TestManu"	"manuelaTEst"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7452	"7EDC4203-AE4A-4D96-8EA9-33344FE41802"	"TER TER"	"asdf"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7453	"8824AF6F-CE33-4982-8D99-8C534D9946DB"	"Pepe Pepe"	"fds"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7454	"D24E5013-65B1-41E0-85E3-8E43B52A03E8"	"LA LA"	"IngridB"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	7456	"NULL"	51	"NULL"
+7455	"5F79B14E-C601-4B45-B76B-636916ECAA50"	"Pepa Pombo"	"PepaL"	"vis_bog_hq"	"NULL"	2	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7456	"31433D29-FD3F-49EB-81BB-A020FAF0B8B5"	"asdf sad"	"IngridB"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7457	"B1A9338F-ABE2-4E8F-B454-4E48C493744E"	"asdf kok"	"IngridB"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7458	"95353C7F-661A-41BB-A6F9-9DB10D84DB34"	"Manuela Belt"	"IngridBe"	"vis_bog_hq"	"NULL"	1	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7459	"302663A1-9F46-4521-B469-55894E3B1C43"	"asdf asdfsad"	"IngridB"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7460	"6B63BDC4-691D-47AB-8F31-A8374F64C286"	"adf das"	"IngridB"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7461	"EFE231AD-57E3-47CB-8F21-6A3D4F504AD1"	"adsf adfg"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7462	"D0C4A5CB-F5C3-4139-8BD0-8AA2C830B99C"	"ManuelaTest ManuelaTest"	"ManuelaTest"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7463	"D1D5985E-5437-4A94-9F24-0ECF33951B3E"	"Manu ManuelaTest"	"UserTest"	"vis_bog_hq"	"NULL"	"NULL"	0	8362	"dl-productivity@bizagi.com"	2	"NULL"	"NULL"	51	"NULL"
+7464	"10D869CD-8B83-4A1A-99C5-6F9B1262B277"	"ManuTest asdads"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7465	"F3E517FF-665F-4B97-82B4-49A8CAF1E735"	"TestManu Test"	"Test"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7466	"258744E4-628B-4633-89D5-9068D3D012EF"	"TEST TEST"	"TEST"	"vis_bog_hq"	"NULL"	4	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7467	"4F094766-65A5-4DDD-A711-EB5F5E745F8C"	"Manu Manu"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7468	"2030F323-2E49-4592-AA89-893DFFDD1123"	"Manu asdf"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7469	"C873357D-98FE-4647-BE74-C3E9E44A1FD3"	"manue manue"	"TEST"	"vis_bog_hq"	"NULL"	2	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7470	"6A153957-23E2-4C03-8E57-A39808D55C93"	"TEST TEST"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7471	"507B2BBA-70DF-4E97-998B-799E0642BA42"	"Manu Manu"	"TEST"	"vis_bog_hq"	"NULL"	3	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7472	"CA23C1F0-78D5-4F47-878A-5FF2E1819483"	"Ingrid2 Ingrid2"	"test"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7473	"6B58CCFD-3D56-419B-818E-9B0968A4032F"	"Pepe Lopera"	"TEST"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7474	"958CEC20-1060-45AC-8B4A-168610F6C370"	"Manuela 3 Manuela 3"	"test"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7475	"4D9FAA82-FC08-4983-B59F-9C487482CA1D"	"manu ga"	"dsfg"	"vis_bog_hq"	"NULL"	3	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7476	"CAC92656-B46D-4C9C-A45C-FD2E54110B40"	"PepA PepA"	"ji"	"vis_bog_hq"	"NULL"	2	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7477	"F335CB0D-3A9A-42DD-A8B9-968AB3020037"	"INGRIDTEST INGRIDTEST"	"Test"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7478	"5F25CF26-F355-40CE-8C6E-3AB6F845A12B"	"MANU RA"	"asgd"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7479	"F6EC35AC-FE92-4A67-9793-052070681126"	"Pepe Perez"	"PepeP"	"vis_bog_hq"	1	4	0	12603	"dl-productivity@bizagi.com"	1	7485	12	51	51
+7480	"3A41FE7D-8C74-4983-A8F2-42D838CB1A12"	"INGRIDB TEST"	"testOnb"	"vis_bog_hq"	3	1	0	8362	"dl-productivity@bizagi.com"	1	"NULL"	"NULL"	51	1
+7481	"A12D0B50-9279-45D5-B5CF-401CF70EFB02"	"Manuf Manuf"	"dsfc"	"vis_bog_hq"	"NULL"	3	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7482	"699F9A7E-8016-4BD9-8EEC-6450C2FAB2FF"	"Manu"	"ManuB"	"VIS_BOG_HQ"	3	4	0	7450	"dl-productivity@bizagi.com"	1	"NULL"	12	158	51
+7483	"D5E8D0A2-42B7-4C47-BC53-EFD0C12D9A23"	"Requester"	"Requester"	"vis_bog_hq"	3	3	0	7309	"dl-productivity@bizagi.com"	2	"NULL"	14	51	51
+7484	"A9AFFD5D-6C6F-40B4-90E8-416D9D3ABC05"	"DARIO CONSULTOR"	"darios"	"vis_bog_hq"	"NULL"	6	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7485	"13D9AB09-9E24-4800-8F48-F112D16096EE"	"EDGAR GIOVANNY ORJUELA ESPINOSA"	"EdgarO"	"vis_bog_hq"	3	4	1	7308	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	51	251
+7486	"0CA725A2-00DD-4A99-B654-22B94690F110"	"KARLA CONSULTANT"	"KarlaR"	"vis_bog_hq"	"NULL"	6	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7487	"E3585E1E-D7D8-4B5C-BDF1-555A0BE88173"	"MANU BELTR"	"TEST"	"vis_bog_hq"	"NULL"	3	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+7488	"1098A1CD-848A-4968-9071-0388D959ABDE"	"PPuserApproval"	"PPuserApproval"	"domain"	4	8	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	2
+7489	"90FEF12A-8B75-4FFE-A84F-BE475EF4C252"	"PPuserITManager"	"PPuserITManager"	"domain"	4	8	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	"NULL"	2
+7490	"29083002-B686-4F13-A37B-582D660256BB"	"PPuserPurchaseDepart"	"PPuserPurchaseDepart"	"domain"	4	4	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	"NULL"	51
+7491	"2D9B4393-119E-4EE2-9CDE-3F64D7CDF9FA"	"PPuserITSupport"	"PPuserITSupport"	"domain"	4	8	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	"NULL"	2
+7492	"6D61138B-6B90-4583-8FA2-855E1CC83BEE"	"ASTRID CALDERON"	"TEST"	"vis_bog_hq"	"NULL"	2	0	7435	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+13257	"37323E9C-2998-4157-9F16-50A0485605C5"	"Giovanny Arguello"	"GiovannyA"	"vis_bog_hq"	3	4	1	7311	"viviana.florez@bizagi.com"	1	"NULL"	14	51	51
+13609	"A256BE1E-B54A-4D4F-946A-1052EDFCA673"	"NAUser"	"NAUser"	"vis_bog_hq"	5	2	0	"NULL"	"dl-productivity@bizagi.com"	1	"NULL"	13	51	151
+13701	"1418DB1B-2967-4FCD-8D74-6EB966966F24"	"Maria Mendez"	"MariaM"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+13951	"8A898298-AF49-4635-80F7-74F713C4F382"	"FLORENTINA MACHADO"	"FlorentinaM"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+13952	"C124B05D-FDEF-4660-8C73-24430C9D4A0D"	"PAOLA REY"	"PaolaR"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+13953	"F0185569-A600-44D8-9A0E-E1967FAC1AED"	"PepitoP"	"PepitoP"	"vis_bog_hq"	1	11	0	7450	"dl-productivity@bizagi.com"	1	"NULL"	21	158	101
+13955	"A1ED4B65-B9C7-4048-803E-81F1F23DF751"	"Freddy Zair Arevalo Riano"	"FreddyA"	"vis_bog_hq"	"NULL"	3	1	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	14	51	251
+14098	"3FF45DD6-EB3D-4485-B6AC-9A56AEBE69C9"	"Carlos Marlon Coral Ortiz"	"CarlosCO"	"vis_bog_hq"	4	8	0	9753	"dl-productivity@bizagi.com"	"NULL"	"NULL"	29	51	2
+14155	"D4E11AE7-2D2E-4BEF-95F1-E155E6ED9C2A"	"IT Test"	"DianaS"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+14197	"EE0111D5-102C-48E5-926A-198AD3722F02"	"Sofia Delgado"	"DianaS"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+14203	"4DF08711-BF10-4EE8-8B97-3497B96DB525"	"Juliana Figueredo Gonzalez"	"JulianaF"	"vis_bog_hq"	1	7	1	9622	"dl-productivity@bizagi.com"	1	"NULL"	14	51	51
+14397	"B7DA5666-05AB-49C9-B912-F889A0FEC4E2"	"JOSE ALFREDO DE LA ROSA FONTALBO"	"DianaS"	"vis_bog_hq"	"NULL"	"NULL"	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+14610	"06EA8176-4345-4814-B555-9CD6005193A8"	"Vacation Requester UK"	"VacRequesterUK"	"vis_bog_hq"	"NULL"	7	0	9753	"dl-productivity@bizagi.com"	"NULL"	"NULL"	26	51	1
+14705	"7A4D23D5-8756-4300-BCCE-4E33CB22103D"	"Vacation Requester Spain"	"VacRequesterSpain"	"vis_bog_hq"	"NULL"	12	0	9753	"dl-productivity@bizagi.com"	"NULL"	"NULL"	29	158	2
+14723	"90308FB8-7B6E-4E94-A826-FDF6722B9D5D"	"Vacation Requester USA"	"VacRequesterUSA"	"vis_bog_hq"	"NULL"	13	0	9753	"dl-productivity@bizagi.com"	"NULL"	"NULL"	5	51	151
+15158	"B2B07DCA-A61B-4E1F-BE81-B026EB945AB0"	"Pep Tom"	"PepTom"	"vis_bog_hq"	"NULL"	3	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+15751	"3220D841-5F76-45A5-8408-05F3DD1D1C41"	"LAETITIA GEORGES"	"LaetitiaG"	"Vis_Bog_hq"	4	6	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	26	51	1
+16654	"95744CB5-63F5-4C0D-BC25-D592BBF6EED0"	"Franci"	"Franci"	"vis_bog_hq"	1	3	1	"NULL"	"dl-productivity@bizagi.com"	1	"NULL"	71	51	51
+16809	"AA964CCB-EC35-4FEB-A631-97312B240961"	"New Version Test"	"diana.soto"	"vis_bog_hq"	"NULL"	3	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+16998	"A60F0199-3796-43D9-8F33-F62B9D9ABA90"	"LIna"	"Lina"	"vis_bog_hq"	1	3	1	7307	"dl-productivity@bizagi.com"	1	"NULL"	14	51	51
+17018	"5D096F9E-DBFF-42E9-AFC4-D972FA5F98B3"	"noSchemaUser"	"noSchemaUser"	"domain"	"NULL"	"NULL"	0	"NULL"	"dl-productivity@bizagi.com"	2	"NULL"	"NULL"	"NULL"	"NULL"
+17147	"FE5C560D-B295-450D-8FFB-6F1D1C89700B"	"Luisa Hernandez"	"nestora"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+17148	"C8A48748-F8CA-487F-AC23-E2A94A1B3443"	"TEST  TEST"	"nestora"	"vis_bog_hq"	"NULL"	1	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+17197	"5F038B24-F5FA-4463-B3B8-CC09F5F856E0"	"TES TEST"	"diana.soto"	"vis_bog_hq"	"NULL"	3	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+17297	"48B43EEA-7760-4913-A42C-0DE93284ABA0"	"TEST NESTOR TEST"	"nestora"	"vis_bog_hq"	"NULL"	3	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	51
+17298	"1113B8CA-A893-43B4-AF54-08C529EC2A16"	"MANU MANU"	"ManuelaB"	"vis_bog_hq"	"NULL"	1	0	7450	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+18064	"497A9D25-3FE3-424E-BBE6-A490D7905D57"	"Diana Camila Soto Perdomo"	"DianaC"	"vis_bog_hq"	1	7	0	"NULL"	"dl-productivity@bizagi.com"	1	"NULL"	14	51	1
+20370	"0EEE4E52-5238-4D38-87B4-7F7EE65890AD"	"Vacations Test1"	"ManuIV"	"vis_bog_hq"	1	4	0	12603	"dl-productivity@bizagi.com"	1	20553	14	158	51
+20553	"08EB0CAE-B5B8-422E-8D29-67C4D709961A"	"BELT BELT"	"Manuby"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	12603	"NULL"	158	51
+20597	"E9396DCD-69CB-4241-8A07-B45DF27E3F39"	"ABC ABC"	"ABCSena"	"vis_bog_hq"	1	4	0	11150	"dl-productivity@bizagi.com"	1	12603	14	51	51
+20649	"B2E3F83B-4706-4E37-B239-3D0EFF7D9205"	"Diego Molano"	"DiegoMolano"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	1	"NULL"	"NULL"	158	51
+20747	"AB0CEF7E-C3FE-4344-8C2D-587E2F0C8CA3"	"Cristina Fula"	"Cristina.Fula"	"vis_bog_hq"	"NULL"	7	1	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	1
+20847	"54CCC73B-28A3-40A3-BE15-C51AA39EAC84"	"test test"	"Microsoft"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+20848	"2A4106EC-C3FD-4BF8-8145-08D27E87461F"	"Francisco  Chavez"	"FranciscoC"	"vis_bog_hq"	"NULL"	8	0	7344	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+21097	"52AF7A61-DA40-4B1A-9E88-857E4757E68F"	"Hola  Hola"	"Hola"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21098	"7BB25918-4945-4184-A0EF-0BCA60920DD7"	"Chao Chao"	"ChaoChao"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	12603	"NULL"	158	51
+21599	"B1219B67-5791-48A8-AB59-54EA7D2F854F"	"Pepita perez"	"PepitaP"	"vis_bog_hq"	"NULL"	4	0	14203	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21647	"2228F1C6-8E7A-49B3-A018-5CA935DF9004"	"RAfa RAfin"	"TSET"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21648	"C2E2992A-B82C-4F56-B726-8E16D711E281"	"Antonio TEST"	"AntonioP"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21649	"8DF5CD36-AA8B-47E4-A15F-461A63B7C83B"	"Rafa Antonio"	"TEST"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21650	"3FFA1305-98DB-42CB-BD45-9E0BADF69E98"	"Pepe Lepiu"	"PepeLePiu"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21697	"3084C0E0-6989-40CB-AAC4-CD5E5EB9C9F8"	"TEST TEEST"	"DELETE"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	13257	"NULL"	158	51
+21747	"805BCC93-2182-4459-B91E-CF1D0AA4B365"	"RENE FROG"	"DERP"	"vis_bog_hq"	"NULL"	4	0	7313	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21797	"70308785-8EAD-4692-B18C-8E77BC3CEF70"	"Manu Manu"	"testUser"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+21949	"7C1CBD2B-741E-4B8A-BE2F-6976851799CB"	"Pedro Nel Martin Bernal"	"PEDROM"	"vis_bog_hq"	"NULL"	4	1	7316	"dl-productivity@Bizagi.com"	"NULL"	"NULL"	"NULL"	51	51
+22248	"312EA721-1144-483D-821B-80DE91F535BE"	"Camilo Arenas"	"camiloa"	"vis_bog_hq"	1	5	0	"NULL"	"dl-productivity@bizagi.com"	1	"NULL"	11	51	"NULL"
+22447	"AF306AE9-8C2E-408C-AA29-8676E8D90770"	"TEST TEST"	"asdfa"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	"NULL"
+22450	"F349F12E-CF88-4AB2-B76B-618EA1EA76AA"	"TEST TEST"	"UYUYUSA"	"vis_bog_hq"	"NULL"	1	0	8362	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+22600	"437913AA-0044-4475-B723-F06D796C173C"	"TEST test"	"REST"	"vis_bog_hq"	"NULL"	"NULL"	0	7307	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+22647	"4D6CDA65-0951-4312-8D4B-EF6ED0679041"	"Ted Clark"	"tedc"	"vis_bog_hq"	"NULL"	"NULL"	0	12302	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+22699	"C042A6E5-81C5-4F2E-85C4-7CDE5A75E227"	"Terry Barrett"	"terryb"	"vis_bog_hq"	"NULL"	7	0	12302	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+22702	"51B3B49D-BF22-4F26-8975-04FF5E7BE50D"	"Claire Moffatt"	"clairem"	"vis_bog_hq"	"NULL"	7	0	12302	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+24947	"E4B3534A-BFF0-4A81-AD3D-6B6D274958D6"	"Test Ltda"	"ds"	"vis_bog_hq"	"NULL"	"NULL"	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+25605	"D76F6336-FF22-42D1-96CF-5402A5E45649"	"Joao Albeiro"	"Fofinho"	"vis_bog_hq"	"NULL"	7	0	7344	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+25647	"00FDDD86-5C48-4825-A461-F351160E2951"	"Pepe Perez"	"PeppeP"	"vis_bog_hq"	"NULL"	4	0	9622	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	51
+25650	"B3A1F787-8840-41A8-8D1E-2FB7C3F9C393"	"Roberta Carla"	"RobertaP"	"vis_bog_hq"	"NULL"	6	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+25747	"9385DF27-45EB-4869-BAA3-58B44B60DBB7"	"Manuela Tobon"	"ManuT"	"vis_bog_hq"	4	4	1	7309	"dl-productivity@bizagi.com"	1	"NULL"	27	158	51
+25797	"7FF78F60-8C35-4311-9527-897CE13E86FB"	"Ingridy Beltran"	"IngridyB"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+26047	"BFAB3BD5-82C2-4160-BFE6-B26529375C41"	"Cathe Haw"	"Catsy"	"vis_bog_hq"	"NULL"	7	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+26147	"77D57D27-F09D-4F96-A9D7-F951916920BD"	"Pepa Pig"	"PeppaP"	"vis_bog_hq"	"NULL"	13	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+26197	"ACA36D1C-EEA4-4D5C-9235-7DB90267993E"	"Thomas Jefferson"	"ThomasJ"	"vis_bog_hq"	"NULL"	10	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+26198	"9541955C-DD7C-4B37-BC67-AAA86EC5F027"	"Bruce Lane"	"BruceL"	"vis_bog_hq"	"NULL"	10	0	7343	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+28554	"3F5FC204-B919-480B-A706-BEA232DDAA5A"	"Ana Cristina Trujillo Toro"	"AnaT"	"vis_bog_hq"	"NULL"	3	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	51
+28701	"F327B475-814A-4343-AFE5-1FBED27A8B4B"	"Tomas Trujillo"	"TomasT"	"vis_bog_hq"	"NULL"	3	1	12603	"dl-productivity@bizagi.com"	1	"NULL"	14	51	251
+28948	"59238823-3E8B-43B9-8A48-D941C038767B"	"Hugo Alexander Gonzalez"	"HugoG"	"vis_bog_hq"	"NULL"	4	1	9753	"dl-productivity@bizagi.com"	1	"NULL"	14	158	251
+30099	"A449758D-9ABD-44CE-ABED-D1D6961168B1"	"Daniel Matteo Eslava"	"DanielE"	"vis_bog_hq"	"NULL"	4	1	7312	"dl-productivity@bizagi.com"	1	"NULL"	14	158	251
+30347	"5932F824-C42E-496B-B746-B67A7A4D2AB6"	"Heyler Test Borjaaaa"	"TomasTA"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+30947	"11D5051B-40D4-4F02-A194-A7448F5A6E79"	"Tomas Test Trujillo"	"TomasTestA"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31247	"7C8685C6-0D66-4CAB-9DAD-1D2A59A0CB1E"	"ABC DEF"	"TomasTTest"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31297	"C7FCD40C-D782-410B-A159-B9EDF2025E72"	"Tomas Test Trujillo"	"TomasTest"	"vis_bog_hq"	"NULL"	4	0	28701	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31347	"9E01CFEF-6949-4367-A9E8-3FC3787733A2"	"Tomas Test Trujillo"	"TomasTest"	"vis_bog_hq"	"NULL"	4	0	28701	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31348	"B3B70A14-6D9A-4B37-8F8C-ECE942BB06B0"	"Tomas Test Trujillo"	"TT"	"vis_bog_hq"	"NULL"	4	0	28701	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31349	"2E307832-5C7D-4923-8E62-A41B5CFB8AB6"	"Tomas Test Trujillo"	"tt"	"vis_bog_hq"	"NULL"	4	0	28701	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31397	"E42E9F29-18F1-4405-AB83-6E1E359BA4FB"	"TEST MATTEO"	"TESTMATTEO"	"vis_bog_hq"	"NULL"	4	0	28701	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31449	"7003FC7A-EB00-4F6D-9F69-CB50E1211A9E"	"Tomas Francisco Trujillo"	"TomasF"	"vis_bog_hq"	"NULL"	4	0	7311	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31597	"8411D2A7-C424-43FB-9C6E-57C92865430B"	"Tomas Trujillo"	"TomasTestDel"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31604	"7EECE01B-400E-4311-8B47-E863999D0649"	"TOMAS TEST TRUJILLO"	"TomasTest"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+31647	"6F59E04C-09A0-4397-8E0B-EAE4ED49AC0E"	"Tomas Pruebas Trujillo"	"tomas"	"vis_bog_hq"	"NULL"	4	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+32747	"3F13D7C4-3F9B-4F15-A964-86A7F05F3580"	"Tomas Trujillo Testing"	"tomasTest"	"vis_bog_hq"	"NULL"	4	0	12603	"tomas.trujillo@bizagi.com"	"NULL"	30099	"NULL"	158	51
+32950	"A5DBFDBA-3580-4C56-8952-113215815377"	"Sapna Maheswari"	"tomas.trujillo212"	"vis_bog_hq"	"NULL"	6	0	7343	"tomas.trujillo@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+32952	"9FCF17EB-39B2-4A1D-9E9B-717BF8E0D2FC"	"Sapna Muhawerski"	"TomasTrujillo2321"	"vis_bog_hq"	"NULL"	6	0	7343	"tomas.trujillo@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+33707	"481918E9-1483-4980-AD4C-9123E5357446"	"Tomas Trujillo"	"TomasDelete"	"vis_bog_hq"	"NULL"	4	0	12603	"tomas.trujillo@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+34581	"903AFA1B-6889-4BAD-8515-BF5ADCBC6AEE"	"Carolina Soto Vargas"	"carolinas"	"vis_bog_hq"	"NULL"	"NULL"	0	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	14	158	251
+35711	"8425BB93-A436-4CAF-80EF-07B4B1A79780"	"JOHN WEBSTER"	"JohnW"	"vis_bog_hq"	"NULL"	7	1	7309	"dl-productivity@bizagi.com"	1	"NULL"	26	51	1
+36247	"DFB197D7-7E2E-4AEC-9101-95CACEC5A3CD"	"Daniel Eslava"	"UsuarioPrueba"	"vis_bog_hq"	"NULL"	13	0	7317	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+36357	"0E537DE2-39A8-4EDD-BAEE-5911BA4FD89A"	"TEST CORP"	"UsuarioPruebaCorp"	"vis_bog_hq"	"NULL"	13	0	7317	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+36447	"0DC446B6-3BB5-435B-BB71-8B077C94EFB3"	"TEST IPA"	"LimitedUSER"	"vis_bog_hq"	"NULL"	7	0	12304	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+36497	"A0090ABB-9CB0-45A4-B8FD-AAE23D080B54"	"TEST3 LTDA TRES"	"TEST3LTDATRES"	"vis_bog_hq"	"NULL"	6	0	9753	"viviana.florez@bizagi.com"	"NULL"	"NULL"	"NULL"	51	1
+36547	"BE20F7C4-D366-46E9-81C8-EA9BE2F4C446"	"TEST1IBERICA UNO"	"TEST1IBERICAUNO"	"vis_bog_hq"	"NULL"	12	0	12603	"viviana.florez@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+36552	"54B0A7F0-8C60-44A0-957F-BC5D151ABD3C"	"TEST3 IBERICA  TRES"	"TEST3IBERICA"	"vis_bog_hq"	"NULL"	6	0	28701	"viviana.florez@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+36597	"7C3030BA-0369-4C55-A9CE-CAC40B17DC41"	"TEST4 TEST2"	"asas"	"vis_bog_hq"	"NULL"	5	0	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+36691	"1FFC64EE-50F9-4780-805C-E4298B77C9E4"	"TEST SENA FINAL"	"TESTSENA"	"vis_bog_hq"	"NULL"	4	0	30099	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+36955	"2A66147D-0061-4DB4-97D2-D83DC1228155"	"Viviana Flórez Rojas"	"VivianaF"	"vis_bog_hq"	"NULL"	4	1	12603	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	2
+37007	"B4E285ED-22AB-4F02-9A07-28F14529862D"	"TEST BIZAGI SALES"	"TESTBIZAGILATAM"	"vis_bog_hq"	"NULL"	4	0	30099	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+37205	"512B8078-655D-44D4-A31C-35EBFAB1B5E5"	"TEST Bizagi 2"	"TESTBIZAGI1"	"vis_bog_hq"	"NULL"	4	0	30099	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+37247	"7C197862-088D-41FB-BCB7-F7731111EB68"	"TEST VISION"	"TESTVISION2"	"vis_bog_hq"	"NULL"	4	0	7505	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	158	51
+37250	"AFEDE020-A808-47F7-89FD-DC7F574A8682"	"TESTBIZAGI ULTIMO"	"ABC"	"vis_bog_hq"	"NULL"	4	0	36955	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+37509	"9253CB01-AB86-4C36-9B37-8005F1A59B37"	"LUISA FERNANDA HERNANDEZ BARRANTES"	"LuisaH"	"vis_bog_hq"	1	3	1	7310	"dl-productivity@bizagi.com"	1	"NULL"	14	51	251
+37660	"6C98C53A-D63C-40D4-BEED-A67DCEC29D0E"	"Wendy Johana Villalba Guevara"	"WendyV"	"vis_bog_hq"	3	4	0	7485	"dl-productivity@bizagi.com"	1	"NULL"	14	158	51
+38048	"3F202ADA-E71C-492A-BE21-431B3E3D4ED8"	"Miguel Humberto Rivera Bocanegra"	"MiguelRB"	"vis_bog_hq"	"NULL"	4	0	7507	"dl-productivity@bizag.com"	1	"NULL"	14	51	251
+38100	"603748D2-3772-4D51-9AB8-018F0607D75B"	"Tomas Test Trujillo Test"	"toamsDis"	"vis_bog_hq"	"NULL"	4	0	12603	"tomas.trujillo@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+38665	"E83B3D58-D272-4A05-978C-20425C591F6C"	"TEST CORP"	"TESTCORP"	"vis_bog_hq"	"NULL"	13	0	7317	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	51	151
+40082	"13CC8BDD-FAD0-47EF-8BA3-9F95A2800781"	"Yorli Fajardo"	"YorliF"	"vis_bog_hq"	"NULL"	3	1	"NULL"	"dl-productivity@bizagi.com"	"NULL"	"NULL"	"NULL"	"NULL"	251
+45509	"36316684-F0E6-4DF8-BCEB-49D8F0176EA3"	"Daniel Matteo Eslava"	"USUARIOMATTEO"	"vis_bog_hq"	"NULL"	4	0	30099	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
+49390	"F7748F37-52D8-4CF5-88F4-DA09F70BD35A"	"Candidato Latam"	"test"	"vis_bog_hq"	"NULL"	4	1	30099	"daniel.eslava@bizagi.com"	"NULL"	"NULL"	"NULL"	158	251
